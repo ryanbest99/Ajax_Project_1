@@ -143,6 +143,7 @@ p {
   display: block;
   transition: var(--transition);
   font-size: 0.875rem;
+  font-weight: bold;
   border: 2px solid var(--clr-primary-5);
   cursor: pointer;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
